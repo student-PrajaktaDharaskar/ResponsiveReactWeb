@@ -17,4 +17,5 @@ Component-Based Architecture: Utilized React's component-based architecture to b
 API Integration: Integrated third-party APIs to dynamically fetch and display data, enhancing the website's interactivity and functionality.
 Cross-Browser Compatibility: Ensured cross-browser compatibility and performance optimization through thorough testing and debugging.
 Version Control: Used Git for version control, facilitating collaborative development and code version tracking.
+
 Technologies Used: React, JavaScript, HTML5, CSS3, Bootstrap, Git, RESTful APIs
